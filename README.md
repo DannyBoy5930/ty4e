@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## todos
+
+- [ ] Make it deploy (vercel)
+- [ ] Connect it to a database for production
+- [ ] Scaffold Basic UI
+- [ ] Setup a Docker Postgres database for local development with docker-compose
+- [ ] Setup drizzle-orm integration
+- [ ] Add 2 sections one for app and the other for login
+- [ ] Add 404 page
+- [ ] Create a a navigation bar
