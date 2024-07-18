@@ -45,3 +45,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [ ] Add 2 sections one for app and the other for login
 - [ ] Add 404 page
 - [ ] Create a a navigation bar
+- [ ] Use Zustand to add some variables in a store to determine how they display their TY list (A-Z, Z-A, or dateCreated, dateModified)
