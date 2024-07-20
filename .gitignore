@@ -28,6 +28,9 @@ yarn-error.log*
 # docker-compose
 docker-compose.yml
 
+# db-data folder
+db-data
+
 # local env files
 .env*.local
 .env
